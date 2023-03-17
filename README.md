@@ -16,7 +16,7 @@ Here on Github you can find projects I've made in school or in my free time and 
 
 
 ✍️<br>
-To learn more about me you can find me at [Linkedin]([https://pages.github.com/](https://www.linkedin.com/in/kicki-lindstrand)) or visit [my portfolio](https://akickia.se).
+To learn more about me you can find me at [Linkedin](https://www.linkedin.com/in/kicki-lindstrand) or visit my portfolio at [akickia.se](https://akickia.se).
 
 
 
