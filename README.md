@@ -7,7 +7,7 @@ My name is Kicki Lindstrand and I'm a middleaged woman located in Sweden, marrie
 
 
 📖<br>
-I’m currently learning frontend development from Folkuniversitetet, Gothenburg. I will be finished summer 2024.
+I’m currently learning frontend development from Folkuniversitetet, Gothenburg. I will be finished summer of 2024.
 Earlier I have completed an intense education from Sundsgårdens folkhögskola in frontend.  
 
 
@@ -21,7 +21,8 @@ To learn more about me you can find me at [Linkedin](https://www.linkedin.com/in
 
 
 ### Learned so far:
-For example HTML, CSS, Sass, Bootstrap, JavaScript, React, Figma, GitHub, Git, CodePen, Agile/Scrum, UX/UI. 
+For example HTML, CSS, Sass, Bootstrap, JavaScript, React, Figma, GitHub, Git, CodePen, Agile/Scrum, UX/UI, node.js, aws, serverless-webpack. 
 
-### Will learn more about: 
-For example clouds, node.js, UX/UI and React.
+### Right now: 
+Doing my LIA (internship) at @zocom 
+
