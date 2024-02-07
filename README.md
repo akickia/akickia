@@ -26,3 +26,4 @@ For example HTML, CSS, Sass, JavaScript, React, Typescript, Figma, GitHub, Git, 
 ### Right now: 
 Doing my LIA (internship) at @zocom 
 
+[![trophy](https://github-profile-trophy.vercel.app/?akickia=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
