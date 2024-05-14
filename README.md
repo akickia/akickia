@@ -21,7 +21,7 @@ To learn more about me you can find me at [Linkedin](https://www.linkedin.com/in
 
 
 ### Learned so far:
-For example HTML, CSS, Sass, JavaScript, React, Typescript, Figma, GitHub, Git, Agile/Scrum, UX/UI, node.js, aws, serverless-webpack, Bootstrap, Redux, Zustand, Framer motion, Express. 
+HTML, CSS, Sass, JavaScript, React, Vue, Typescript, Figma, GitHub, Git, Agile/Scrum, UX/UI, node.js, AWS, serverless-webpack, PrimeVue, Bootstrap, Redux, Zustand, Pinia, Framer motion, Express, Trello, Github Projects. 
 
 ### Right now: 
-Doing my LIA (internship) at @zocom 
+Doing my second LIA (internship) at Teachiq / Kunskapsmatrisen.se
