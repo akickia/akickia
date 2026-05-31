@@ -24,4 +24,4 @@ To learn more about me you can find me at [Linkedin](https://www.linkedin.com/in
 HTML, CSS, Sass, JavaScript, React, Vue, Typescript, Figma, GitHub, Git, Agile/Scrum, UX/UI, node.js, AWS, serverless-webpack, PrimeVue, Bootstrap, Redux, Zustand, Pinia, Framer motion, Express, Trello, Github Projects. 
 
 ### Right now: 
-Looking for my next challenge! 
+Starting a new position as developer in September of 2026. 
