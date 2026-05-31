@@ -3,7 +3,7 @@ Junior frontend developer with great interest in development and teaching.
 
 
 👋<br>
-My name is Kicki Lindstrand and I'm a middleaged woman located in Sweden, married with Martin and the mother of three kids. We also have a 🐩 named Sixten. I've worked about 10 years with education, but decided to try something new. Started coding in the end of 2021.
+My name is Kicki Lindstrand and I'm a middleaged woman located in Sweden and the mother of three kids. We also have a 🐩 named Sixten. I've worked about 10 years with education, but decided to try something new. Started coding in the end of 2021.
 
 
 📖<br>
